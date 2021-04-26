@@ -1,0 +1,13 @@
+#Start recording tcl command: 3/26/2021 17:02:45
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00; Project name: registroU00
+prj_project open "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00.ldf"
+prj_run Export -impl registroU00 -task Jedecgen
+prj_run Export -impl registroU00 -task Jedecgen
+pgr_project save "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/registroU00.xcf"
+prj_src add -exclude "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/registroU00.xcf"
+prj_src enable "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/registroU00.xcf"
+pgr_project save "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/registroU00.xcf"
+pgr_program run
+prj_project save
+prj_project close
+#Stop recording: 3/26/2021 18:08:51

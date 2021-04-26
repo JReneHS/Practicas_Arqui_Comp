@@ -1,0 +1,1 @@
+run_tcl -fg registroU00_registroU00_synplify.tcl

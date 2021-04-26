@@ -1,0 +1,14 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N:"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01.vhd":8:7:8:15|Top entity is set to puertas00.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01.vhd":8:7:8:15|Synthesizing work.puertas00.puertas0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\mux64_8.vhd":6:7:6:11|Synthesizing work.mux00.mux0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\xnor00.vhd":6:7:6:12|Synthesizing work.xnor00.xnor0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\xor00.vhd":6:7:6:11|Synthesizing work.xor00.xor0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\nor00.vhd":6:7:6:11|Synthesizing work.nor00.nor0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\or00.vhd":6:7:6:10|Synthesizing work.or00.or0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\nand00.vhd":6:7:6:12|Synthesizing work.nand00.nand0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\and00.vhd":6:7:6:11|Synthesizing work.and00.and0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\not00.vhd":6:7:6:11|Synthesizing work.not00.not0.
+@N|Running in 64-bit mode
+

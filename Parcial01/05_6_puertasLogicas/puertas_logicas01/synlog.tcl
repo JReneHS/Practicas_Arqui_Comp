@@ -1,0 +1,1 @@
+run_tcl -fg puertas_logicas001_puertas_logicas01_synplify.tcl

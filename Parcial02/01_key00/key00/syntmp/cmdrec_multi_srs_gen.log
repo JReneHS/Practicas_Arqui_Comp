@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  key00  -multisrs  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synwork\key00_key00_comp.srs"  -osyn  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synwork\key00_key00_mult.srs"  -log  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synlog\key00_key00_multi_srs_gen.srr" 
+relcom:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top key00 -multisrs "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synwork\key00_key00_comp.srs" -osyn "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synwork\key00_key00_mult.srs" -log "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\Parcial02\01_key00\key00\synlog\key00_key00_multi_srs_gen.srr"
+rc:0 success:1 runtime:0
+file:..\synwork\key00_key00_comp.srs|io:i|time:1619038111|size:9273|exec:0|csum:7F934E9C90508EFFE5AAD61DBA1F68FF
+file:..\synwork\key00_key00_mult.srs|io:o|time:1619038112|size:2873|exec:0|csum:
+file:..\synlog\key00_key00_multi_srs_gen.srr|io:o|time:1619038112|size:1041|exec:0|csum:
+file:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1603988322|size:8875008|exec:1|csum:43373AFF0ED6BCEB26CB4B4947B972DD

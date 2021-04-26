@@ -1,0 +1,7 @@
+#Start recording tcl command: 3/23/2021 17:12:17
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/10_multi4bits00; Project name: multi4bits00
+prj_project open "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/10_multi4bits00/multi4bits00.ldf"
+prj_run Export -impl multi4bits00 -task Jedecgen
+prj_run Export -impl multi4bits00 -task Jedecgen
+prj_project close
+#Stop recording: 3/23/2021 17:17:33

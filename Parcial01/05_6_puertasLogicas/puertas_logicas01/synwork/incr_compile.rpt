@@ -1,0 +1,70 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-2I5LM3P
+
+Implementation : puertas_logicas01
+Synopsys HDL compiler and linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+Modified Files: 0
+FID:  path (prevtimestamp, timestamp)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 0
+MID:  lib.cell.view
+
+*******************************************************************
+Unmodified files: 22
+FID:  path (timestamp)
+0        C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd (2018-11-15 00:32:12)
+1        C:\lscc\diamond\3.12\synpbase\lib\cpld\lattice.vhd (2020-10-29 10:20:44)
+2        C:\lscc\diamond\3.12\synpbase\lib\lucent\machxo2.vhd (2020-10-29 10:20:54)
+3        C:\lscc\diamond\3.12\synpbase\lib\vhd\arith.vhd (2020-10-29 10:23:10)
+4        C:\lscc\diamond\3.12\synpbase\lib\vhd\hyperents.vhd (2020-10-29 10:23:10)
+5        C:\lscc\diamond\3.12\synpbase\lib\vhd\location.map (2020-11-02 17:26:20)
+6        C:\lscc\diamond\3.12\synpbase\lib\vhd\numeric.vhd (2020-10-29 10:23:10)
+7        C:\lscc\diamond\3.12\synpbase\lib\vhd\snps_haps_pkg.vhd (2020-10-29 10:23:10)
+8        C:\lscc\diamond\3.12\synpbase\lib\vhd\std.vhd (2020-10-29 10:23:10)
+9        C:\lscc\diamond\3.12\synpbase\lib\vhd\std1164.vhd (2020-10-29 10:23:10)
+10       C:\lscc\diamond\3.12\synpbase\lib\vhd\umr_capim.vhd (2020-10-29 10:23:10)
+11       C:\lscc\diamond\3.12\synpbase\lib\vhd\unsigned.vhd (2020-10-29 10:23:10)
+12       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\and00.vhd (2021-03-22 02:38:49)
+13       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\mux64_8.vhd (2021-03-22 03:22:50)
+14       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\nand00.vhd (2021-03-22 02:42:18)
+15       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\nor00.vhd (2021-03-22 02:42:58)
+16       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\not00.vhd (2021-03-22 02:41:22)
+17       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\or00.vhd (2021-03-22 02:39:37)
+18       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\packageLP00.vhd (2021-03-22 03:13:53)
+19       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01.vhd (2021-03-22 03:26:50)
+20       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\xnor00.vhd (2021-03-22 02:44:35)
+21       D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\xor00.vhd (2021-03-22 02:44:00)
+
+*******************************************************************
+Unchanged modules: 18
+MID:  lib.cell.view
+0        work.and00.and0
+1        work.and00.vhdl
+2        work.mux00.mux0
+3        work.mux00.vhdl
+4        work.nand00.nand0
+5        work.nand00.vhdl
+6        work.nor00.nor0
+7        work.nor00.vhdl
+8        work.not00.not0
+9        work.not00.vhdl
+10       work.or00.or0
+11       work.or00.vhdl
+12       work.puertas00.puertas0
+13       work.puertas00.vhdl
+14       work.xnor00.vhdl
+15       work.xnor00.xnor0
+16       work.xor00.vhdl
+17       work.xor00.xor0

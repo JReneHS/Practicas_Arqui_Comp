@@ -1,0 +1,11 @@
+#Start recording tcl command: 3/25/2021 10:38:32
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00; Project name: registroU00
+prj_project new -name "registroU00" -impl "registroU00" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+file copy -force -- "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/00_osc00VHDL/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/00_osc00VHDL/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/00_osc00VHDL/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/00_osc00VHDL/packageOsc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/packageOsc00.vhd"
+prj_project save
+file copy -force -- "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_shiftRL00/packageRL00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_shiftRL00/shiftRL00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_shiftRL00/topShiftRL00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/packageRL00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/shiftRL00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/14_15_16_17_registroU00/registroU00/source/topShiftRL00.vhd"
+prj_project save
+prj_project close
+#Stop recording: 3/25/2021 10:52:10

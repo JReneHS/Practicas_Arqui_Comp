@@ -1,0 +1,28 @@
+#Start recording tcl command: 3/22/2021 02:37:22
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas; Project name: puertas_logicas001
+prj_project new -name "puertas_logicas001" -impl "puertas_logicas01" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+prj_project save
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/and00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/or00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/not00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/nand00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/nor00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/xor00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/xnor00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/mux64_8.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/packageLP00.vhd"
+prj_run Export -impl puertas_logicas01 -task Jedecgen
+prj_run Export -impl puertas_logicas01 -task Jedecgen
+pgr_project save "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01/puertas_logicas01.xcf"
+prj_src add -exclude "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01/puertas_logicas01.xcf"
+prj_src enable "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01/puertas_logicas01.xcf"
+prj_run Export -impl puertas_logicas01 -task Jedecgen
+pgr_project close
+prj_run Export -impl puertas_logicas01 -task Jedecgen
+pgr_project open "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01/puertas_logicas01.xcf"
+pgr_program run
+pgr_project save "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/05_6_puertasLogicas/puertas_logicas01/puertas_logicas01.xcf"
+pgr_project close
+prj_run Export -impl puertas_logicas01 -task Jedecgen
+#Stop recording: 3/21/2021 22:02:45

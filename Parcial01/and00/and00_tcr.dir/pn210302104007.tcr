@@ -1,0 +1,7 @@
+#Start recording tcl command: 3/2/2021 08:49:36
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/and00; Project name: and00
+prj_project new -name "and00" -impl "and0" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+prj_project save
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/and00/and00.vhdl"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/and00/andTestBench00.vhdl"
+#Stop recording: 3/2/2021 10:40:07

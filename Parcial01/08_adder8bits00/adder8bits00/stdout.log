@@ -1,0 +1,88 @@
+Running in Lattice mode
+
+Starting:    C:\lscc\diamond\3.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\diamond\3.12\synpbase
+Hostname:    DESKTOP-2I5LM3P
+Date:        Tue Mar 23 17:04:37 2021
+Version:     Q-2020.03L-SP1
+
+Arguments:   -product synplify_pro -batch adder8bits00_adder8bits00_synplify.tcl
+ProductType: synplify_pro
+
+
+
+
+log file: "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srr"
+Running: hdl_info_gen in foreground
+
+Generating HDL info...
+
+hdl_info_gen completed
+# Tue Mar 23 17:04:42 2021
+
+Return Code: 0
+Run Time:00h:00m:03s
+log file: "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srr"
+Running: adder8bits00 in foreground
+
+Running proj_1|adder8bits00
+
+Running Flow: compile (Compile) on proj_1|adder8bits00
+# Tue Mar 23 17:04:43 2021
+
+Running Flow: compile_flow (Compile Process) on proj_1|adder8bits00
+# Tue Mar 23 17:04:43 2021
+
+Running: compiler (Compile Input) on proj_1|adder8bits00
+# Tue Mar 23 17:04:43 2021
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_comp.srs to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srs
+
+compiler completed
+# Tue Mar 23 17:04:59 2021
+
+Return Code: 0
+Run Time:00h:00m:15s
+
+Running: multi_srs_gen (Multi-srs Generator) on proj_1|adder8bits00
+# Tue Mar 23 17:04:59 2021
+
+multi_srs_gen completed
+# Tue Mar 23 17:05:02 2021
+
+Return Code: 0
+Run Time:00h:00m:03s
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_mult.srs to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srs
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srr to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srf
+Complete: Compile Process on proj_1|adder8bits00
+
+Running: premap (Premap) on proj_1|adder8bits00
+# Tue Mar 23 17:05:02 2021
+
+premap completed
+# Tue Mar 23 17:05:16 2021
+
+Return Code: 0
+Run Time:00h:00m:14s
+Complete: Compile on proj_1|adder8bits00
+
+Running Flow: map (Map) on proj_1|adder8bits00
+# Tue Mar 23 17:05:16 2021
+
+Running: fpga_mapper (Map & Optimize) on proj_1|adder8bits00
+# Tue Mar 23 17:05:16 2021
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_m.srm to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srm
+
+fpga_mapper completed
+# Tue Mar 23 17:05:28 2021
+
+Return Code: 0
+Run Time:00h:00m:12s
+Complete: Map on proj_1|adder8bits00
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srr to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\adder8bits00_adder8bits00.srf
+Complete: Logic Synthesis on proj_1|adder8bits00
+TCL script complete: "adder8bits00_adder8bits00_synplify.tcl"
+exit status=0
+exit status=0
+Save changes for project:
+D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\proj_1.prj
+batch mode default:no

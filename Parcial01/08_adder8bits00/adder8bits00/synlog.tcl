@@ -1,0 +1,1 @@
+run_tcl -fg adder8bits00_adder8bits00_synplify.tcl

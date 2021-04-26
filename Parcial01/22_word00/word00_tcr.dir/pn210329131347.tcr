@@ -1,0 +1,8 @@
+#Start recording tcl command: 3/29/2021 13:11:01
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00; Project name: word00
+prj_project open "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00/word00.ldf"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00/wordmem00.vhd"
+file copy -force -- "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00/coder00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00/word00/source"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/22_word00/word00/source/coder00.vhd"
+prj_run Export -impl word00 -task Jedecgen
+#Stop recording: 3/29/2021 13:13:47

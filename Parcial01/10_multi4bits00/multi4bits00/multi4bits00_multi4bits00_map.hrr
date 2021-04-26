@@ -1,0 +1,458 @@
+---------------------------------------------------
+Report for cell mult4bit00
+   Instance path: mult4bit00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	      13.00        100.0
+                                  LUT4	      26.00        100.0
+                                 IOBUF	         16        100.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                fa00_1	          1         7.7
+                                fa00_8	          1         3.8
+                                fa00_2	          1         7.7
+                              fa00_0_0	          1         7.7
+                              fa00_0_4	          1         7.7
+                              fa00_0_5	          1         7.7
+                              fa00_0_6	          1         7.7
+                              fa00_0_2	          1         7.7
+                              fa00_0_3	          1         7.7
+                              fa00_0_1	          1         7.7
+                                  fa00	          1         7.7
+                                fa00_0	          1         7.7
+                                anda00	          1         3.8
+                              anda00_2	          1         3.8
+                              anda00_1	          1         3.8
+---------------------------------------------------
+Report for cell fa00_0_6
+   Instance path: mult4bit00/M27
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_6	          1         3.8
+                               ha00_23	          1         3.8
+---------------------------------------------------
+Report for cell ora00_6
+   Instance path: mult4bit00/M27/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_23
+   Instance path: mult4bit00/M27/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                             xora00_18	          1         3.8
+---------------------------------------------------
+Report for cell xora00_18
+   Instance path: mult4bit00/M27/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_5
+   Instance path: mult4bit00/M26
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_5	          1         3.8
+                               ha00_21	          1         3.8
+---------------------------------------------------
+Report for cell ora00_5
+   Instance path: mult4bit00/M26/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_21
+   Instance path: mult4bit00/M26/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                             xora00_16	          1         3.8
+---------------------------------------------------
+Report for cell xora00_16
+   Instance path: mult4bit00/M26/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_4
+   Instance path: mult4bit00/M25
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_4	          1         3.8
+                               ha00_19	          1         3.8
+---------------------------------------------------
+Report for cell ora00_4
+   Instance path: mult4bit00/M25/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_19
+   Instance path: mult4bit00/M25/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                             xora00_14	          1         3.8
+---------------------------------------------------
+Report for cell xora00_14
+   Instance path: mult4bit00/M25/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_2
+   Instance path: mult4bit00/M24
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ha00_17	          1         7.7
+---------------------------------------------------
+Report for cell ha00_17
+   Instance path: mult4bit00/M24/F00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                             anda00_28	          1         3.8
+                             xora00_12	          1         3.8
+---------------------------------------------------
+Report for cell anda00_28
+   Instance path: mult4bit00/M24/F00/H01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell xora00_12
+   Instance path: mult4bit00/M24/F00/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_3
+   Instance path: mult4bit00/M19
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_3	          1         3.8
+                               ha00_16	          1         3.8
+---------------------------------------------------
+Report for cell ora00_3
+   Instance path: mult4bit00/M19/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_16
+   Instance path: mult4bit00/M19/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                             xora00_11	          1         3.8
+---------------------------------------------------
+Report for cell xora00_11
+   Instance path: mult4bit00/M19/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_2
+   Instance path: mult4bit00/M18
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_2	          1         3.8
+                               ha00_14	          1         3.8
+---------------------------------------------------
+Report for cell ora00_2
+   Instance path: mult4bit00/M18/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_14
+   Instance path: mult4bit00/M18/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_9	          1         3.8
+---------------------------------------------------
+Report for cell xora00_9
+   Instance path: mult4bit00/M18/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_1
+   Instance path: mult4bit00/M17
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_1	          1         3.8
+                               ha00_11	          1         3.8
+---------------------------------------------------
+Report for cell ora00_1
+   Instance path: mult4bit00/M17/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_11
+   Instance path: mult4bit00/M17/F00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_6	          1         3.8
+---------------------------------------------------
+Report for cell xora00_6
+   Instance path: mult4bit00/M17/F00/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_1
+   Instance path: mult4bit00/M16
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ha00_10	          1         7.7
+---------------------------------------------------
+Report for cell ha00_10
+   Instance path: mult4bit00/M16/F00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_5	          1         3.8
+                             anda00_17	          1         3.8
+---------------------------------------------------
+Report for cell anda00_17
+   Instance path: mult4bit00/M16/F00/H01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell xora00_5
+   Instance path: mult4bit00/M16/F00/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_8
+   Instance path: mult4bit00/M11
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                ha00_9	          1         3.8
+---------------------------------------------------
+Report for cell ha00_9
+   Instance path: mult4bit00/M11/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_4	          1         3.8
+---------------------------------------------------
+Report for cell xora00_4
+   Instance path: mult4bit00/M11/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0_0
+   Instance path: mult4bit00/M10
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                               ora00_0	          1         3.8
+                                ha00_8	          1         3.8
+---------------------------------------------------
+Report for cell ora00_0
+   Instance path: mult4bit00/M10/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_8
+   Instance path: mult4bit00/M10/F01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_3	          1         3.8
+---------------------------------------------------
+Report for cell xora00_3
+   Instance path: mult4bit00/M10/F01/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00_0
+   Instance path: mult4bit00/M09
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                 ora00	          1         3.8
+                                ha00_5	          1         3.8
+---------------------------------------------------
+Report for cell ora00
+   Instance path: mult4bit00/M09/F02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell ha00_5
+   Instance path: mult4bit00/M09/F00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              xora00_0	          1         3.8
+---------------------------------------------------
+Report for cell xora00_0
+   Instance path: mult4bit00/M09/F00/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell fa00
+   Instance path: mult4bit00/M08
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                  ha00	          1         7.7
+---------------------------------------------------
+Report for cell ha00
+   Instance path: mult4bit00/M08/F00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         7.7
+                                  LUT4	       2.00         7.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                xora00	          1         3.8
+                              anda00_7	          1         3.8
+---------------------------------------------------
+Report for cell anda00_7
+   Instance path: mult4bit00/M08/F00/H01
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell xora00
+   Instance path: mult4bit00/M08/F00/H00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell anda00_2
+   Instance path: mult4bit00/M03
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell anda00_1
+   Instance path: mult4bit00/M02
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8
+---------------------------------------------------
+Report for cell anda00
+   Instance path: mult4bit00/M00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         3.8
+                                  LUT4	       1.00         3.8

@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "puertas_logicas001_puertas_logicas01.log"
+-o "puertas_logicas001_puertas_logicas01.csv"
+-pr "puertas_logicas001_puertas_logicas01.prf"

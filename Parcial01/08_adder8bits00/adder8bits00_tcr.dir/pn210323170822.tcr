@@ -1,0 +1,5 @@
+#Start recording tcl command: 3/23/2021 17:03:11
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00; Project name: adder8bits00
+prj_project open "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/adder8bits00.ldf"
+prj_run Export -impl adder8bits00 -task Jedecgen
+#Stop recording: 3/23/2021 17:08:22

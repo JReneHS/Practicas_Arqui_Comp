@@ -1,0 +1,18 @@
+#Start recording tcl command: 3/21/2021 23:00:38
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00; Project name: adder4bits00
+prj_project new -name "adder4bits00" -impl "adder4bits00" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+prj_project save
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/xor00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/and00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/packageHA00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/HA00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/or00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/FA00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/packageFA00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/xnor00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/packageAdder4bit00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/07_adder00/adder4bit00.vhd"
+prj_run Export -impl adder4bits00 -task Jedecgen
+prj_project save
+prj_project close
+#Stop recording: 3/22/2021 00:52:23

@@ -1,0 +1,18 @@
+---------------------------------------------------
+Report for cell puertas00
+   Instance path: puertas00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       8.00        100.0
+                                  LUT4	      16.00        100.0
+                                 IOBUF	         27        100.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                 mux00	          1        100.0
+---------------------------------------------------
+Report for cell mux00
+   Instance path: puertas00/h07
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       8.00        100.0
+                                  LUT4	      16.00        100.0

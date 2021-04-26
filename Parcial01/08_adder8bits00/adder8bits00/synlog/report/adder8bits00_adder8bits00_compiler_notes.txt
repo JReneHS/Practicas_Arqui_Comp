@@ -1,0 +1,12 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N:"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bit00.vhd":8:7:8:17|Top entity is set to adder4bit00.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bit00.vhd":8:7:8:17|Synthesizing work.adder4bit00.adder4bit0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\xor00.vhd":6:7:6:11|Synthesizing work.xor00.xor0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\xnor00.vhd":6:7:6:12|Synthesizing work.xnor00.xnor0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\and00.vhd":6:7:6:11|Synthesizing work.and00.and0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\FA00.vhd":8:7:8:10|Synthesizing work.fa00.fa0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\or00.vhd":6:7:6:10|Synthesizing work.or00.or0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\HA00.vhd":8:7:8:10|Synthesizing work.ha00.ha0.
+@N|Running in 64-bit mode
+

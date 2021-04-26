@@ -1,0 +1,121 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-2I5LM3P
+
+Implementation : adder4bits00
+Synopsys HDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-2I5LM3P
+
+Implementation : adder4bits00
+Synopsys VHDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+@N:"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\adder4bit00.vhd":8:7:8:17|Top entity is set to adder4bit00.
+VHDL syntax check successful!
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\adder4bit00.vhd":8:7:8:17|Synthesizing work.adder4bit00.adder4bit0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\xor00.vhd":6:7:6:11|Synthesizing work.xor00.xor0.
+Post processing for work.xor00.xor0
+Running optimization stage 1 on xor00 .......
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\xnor00.vhd":6:7:6:12|Synthesizing work.xnor00.xnor0.
+Post processing for work.xnor00.xnor0
+Running optimization stage 1 on xnor00 .......
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\and00.vhd":6:7:6:11|Synthesizing work.and00.and0.
+Post processing for work.and00.and0
+Running optimization stage 1 on and00 .......
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\FA00.vhd":8:7:8:10|Synthesizing work.fa00.fa0.
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\or00.vhd":6:7:6:10|Synthesizing work.or00.or0.
+Post processing for work.or00.or0
+Running optimization stage 1 on or00 .......
+@N: CD630 :"D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\HA00.vhd":8:7:8:10|Synthesizing work.ha00.ha0.
+Post processing for work.ha00.ha0
+Running optimization stage 1 on HA00 .......
+Post processing for work.fa00.fa0
+Running optimization stage 1 on FA00 .......
+Post processing for work.adder4bit00.adder4bit0
+Running optimization stage 1 on adder4bit00 .......
+Running optimization stage 2 on HA00 .......
+Running optimization stage 2 on or00 .......
+Running optimization stage 2 on FA00 .......
+Running optimization stage 2 on and00 .......
+Running optimization stage 2 on xnor00 .......
+Running optimization stage 2 on xor00 .......
+Running optimization stage 2 on adder4bit00 .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\adder4bits00\synwork\layer0.rt.csv
+
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 95MB peak: 95MB)
+
+Process took 0h:00m:02s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Mar 22 00:42:02 2021
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-2I5LM3P
+
+Implementation : adder4bits00
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 90MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Mar 22 00:42:02 2021
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\07_adder00\adder4bits00\synwork\adder4bits00_adder4bits00_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:01s; Memory used current: 23MB peak: 23MB)
+
+Process took 0h:00m:02s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Mar 22 00:42:02 2021
+
+###########################################################]

@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  mult8bit00  -multisrs  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synwork\multi8bits00_multi8bits00_comp.srs"  -osyn  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synwork\multi8bits00_multi8bits00_mult.srs"  -log  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synlog\multi8bits00_multi8bits00_multi_srs_gen.srr" 
+relcom:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top mult8bit00 -multisrs "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synwork\multi8bits00_multi8bits00_comp.srs" -osyn "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synwork\multi8bits00_multi8bits00_mult.srs" -log "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\11_multi8bits00\multi8bits00\synlog\multi8bits00_multi8bits00_multi_srs_gen.srr"
+rc:0 success:1 runtime:2
+file:..\synwork\multi8bits00_multi8bits00_comp.srs|io:i|time:1616541470|size:7506|exec:0|csum:5A081ED4B11D2FEBCAC476847C837ECE
+file:..\synwork\multi8bits00_multi8bits00_mult.srs|io:o|time:1616541473|size:5213|exec:0|csum:
+file:..\synlog\multi8bits00_multi8bits00_multi_srs_gen.srr|io:o|time:1616541473|size:1048|exec:0|csum:
+file:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1603988322|size:8875008|exec:1|csum:43373AFF0ED6BCEB26CB4B4947B972DD

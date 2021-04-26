@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  adder4bit00  -multisrs  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_comp.srs"  -osyn  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_mult.srs"  -log  "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synlog\adder8bits00_adder8bits00_multi_srs_gen.srr" 
+relcom:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top adder4bit00 -multisrs "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_comp.srs" -osyn "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synwork\adder8bits00_adder8bits00_mult.srs" -log "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\08_adder8bits00\adder8bits00\synlog\adder8bits00_adder8bits00_multi_srs_gen.srr"
+rc:0 success:1 runtime:3
+file:..\synwork\adder8bits00_adder8bits00_comp.srs|io:i|time:1616540693|size:5775|exec:0|csum:5675B10EF77868E079CA50AE9348CAC1
+file:..\synwork\adder8bits00_adder8bits00_mult.srs|io:o|time:1616540701|size:3460|exec:0|csum:
+file:..\synlog\adder8bits00_adder8bits00_multi_srs_gen.srr|io:o|time:1616540701|size:1048|exec:0|csum:
+file:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1603988322|size:8875008|exec:1|csum:43373AFF0ED6BCEB26CB4B4947B972DD

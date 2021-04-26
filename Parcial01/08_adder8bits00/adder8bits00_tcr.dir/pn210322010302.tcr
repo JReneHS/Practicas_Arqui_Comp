@@ -1,0 +1,17 @@
+#Start recording tcl command: 3/22/2021 00:52:23
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00; Project name: adder8bits00
+prj_project new -name "adder8bits00" -impl "adder8bits00" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+prj_project save
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/adder4bit00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/and00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/FA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/HA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/or00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageAdder4bit00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageFA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageHA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xnor00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xor00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageFA00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageAdder4bit00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/adder4bit00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/and00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/FA00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/HA00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageHA00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xor00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xnor00.vhd"
+prj_src remove "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/or00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/adder8bit00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/and00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/FA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/HA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/or00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageAdder8bit00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageFA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/packageHA00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xnor00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/practicas/08_adder8bits00/xor00.vhd"
+#Stop recording: 3/22/2021 01:03:02

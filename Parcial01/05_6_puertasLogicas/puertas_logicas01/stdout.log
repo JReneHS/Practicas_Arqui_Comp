@@ -1,0 +1,87 @@
+Running in Lattice mode
+
+Starting:    C:\lscc\diamond\3.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\diamond\3.12\synpbase
+Hostname:    DESKTOP-2I5LM3P
+Date:        Tue Mar 23 19:18:48 2021
+Version:     Q-2020.03L-SP1
+
+Arguments:   -product synplify_pro -batch puertas_logicas001_puertas_logicas01_synplify.tcl
+ProductType: synplify_pro
+
+
+
+
+log file: "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srr"
+Running: hdl_info_gen in foreground
+
+Generating HDL info...
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srr to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srf
+
+hdl_info_gen completed
+# Tue Mar 23 19:18:49 2021
+
+Return Code: 0
+Run Time:00h:00m:00s
+log file: "D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srr"
+Running: puertas_logicas01 in foreground
+
+Running proj_1|puertas_logicas01
+
+Running Flow: compile (Compile) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:50 2021
+
+Running Flow: compile_flow (Compile Process) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:50 2021
+
+Running: compiler (Compile Input) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:50 2021
+
+compiler completed
+# Tue Mar 23 19:18:52 2021
+
+Return Code: 0
+Run Time:00h:00m:02s
+
+Running: multi_srs_gen (Multi-srs Generator) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:52 2021
+
+multi_srs_gen completed
+# Tue Mar 23 19:18:52 2021
+
+Return Code: 0
+Run Time:00h:00m:00s
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srr to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srf
+Complete: Compile Process on proj_1|puertas_logicas01
+
+Running: premap (Premap) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:52 2021
+
+premap completed
+# Tue Mar 23 19:18:57 2021
+
+Return Code: 0
+Run Time:00h:00m:05s
+Complete: Compile on proj_1|puertas_logicas01
+
+Running Flow: map (Map) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:58 2021
+
+Running: fpga_mapper (Map & Optimize) on proj_1|puertas_logicas01
+# Tue Mar 23 19:18:58 2021
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\synwork\puertas_logicas001_puertas_logicas01_m.srm to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srm
+
+fpga_mapper completed
+# Tue Mar 23 19:19:03 2021
+
+Return Code: 0
+Run Time:00h:00m:05s
+Complete: Map on proj_1|puertas_logicas01
+Copied D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srr to D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\puertas_logicas001_puertas_logicas01.srf
+Complete: Logic Synthesis on proj_1|puertas_logicas01
+TCL script complete: "puertas_logicas001_puertas_logicas01_synplify.tcl"
+exit status=0
+exit status=0
+Save changes for project:
+D:\ISC\Semestre 2021-1\Arquitectura de Computadoras\practicas\05_6_puertasLogicas\puertas_logicas01\proj_1.prj
+batch mode default:no
