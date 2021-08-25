@@ -1,0 +1,7 @@
+#Start recording tcl command: 5/25/2021 09:14:44
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00; Project name: bcd00
+prj_project new -name "bcd00" -impl "bcd00" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+file copy -force -- "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/packageOsc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00/bcd00/source"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00/bcd00/source/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00/bcd00/source/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00/bcd00/source/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/01_bcd00/bcd00/source/packageOsc00.vhd"
+prj_project save
+#Stop recording: 5/25/2021 09:31:00

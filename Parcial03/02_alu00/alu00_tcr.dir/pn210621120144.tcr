@@ -1,0 +1,9 @@
+#Start recording tcl command: 6/21/2021 10:35:03
+#Project Location: D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00; Project name: alu00
+prj_project new -name "alu00" -impl "alu00" -dev LCMXO2-7000HE-4TG144I -synthesis "synplify"
+file copy -force -- "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/00_osc00VHDL/packageOsc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/alu00/source"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/alu00/source/div00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/alu00/source/osc00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/alu00/source/oscint00.vhd" "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/alu00/source/packageOsc00.vhd"
+prj_project save
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/andaa00.vhd"
+prj_src add "D:/ISC/Semestre 2021-1/Arquitectura de Computadoras/Practicas_Arqui_Comp/Parcial03/02_alu00/oraa00.vhd"
+#Stop recording: 6/21/2021 12:01:44
